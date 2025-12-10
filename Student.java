@@ -6,6 +6,7 @@ public abstract class Student {
     private String department;
     private Address address;
 
+    
     public Student(String id, String firstName, String lastName,
                    double gpa, String department, Address address) throws InvalidGPAException {
         this.id = id;

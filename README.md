@@ -38,7 +38,8 @@ Check version using:
 
 ```bash
 java -version
- img
+ <img width="486" height="327" alt="‏لقطة الشاشة ١٤٤٧-٠٦-٢١ في ١ ٠٦ ٠١ ص" src="https://github.com/user-attachments/assets/c6af024b-c183-4b60-a8d7-d640543795f0" />
+
 ✔ Terminal or IDE
 
 You may use:

@@ -31,17 +31,17 @@ SRMS/
 
 ---
 
-### 🛠 Prerequisites
+# 🛠 Prerequisites
 Before building or running SRMS, make sure you have installed:
 
-## ✔ Java JDK (24 or newer)
+## java JDK (24 or newer)
 Check version using:
 java --version
 
 
 <img src="/images/p1.png" width="400"/>
 
-## ✔ Terminal or IDE
+## Terminal or IDE
 
 You may use:
 
@@ -66,20 +66,22 @@ java Main
 
 # ▶ Running the Project in Visual Studio Code
 1. Download ZIP from GitHub
+<img src="/images/zip.png" width="400"/>
+
 2. Extract it
-pp
 
 3. Open VS Code → Open Folder → SRMS
-Ensure you have:
 
-✔ Java Extension Pack installed
-![Screenshot](images/screen1.png)
+( Ensure you have Java Extension Pack installed): 
 
-Open the terminal inside VS Code:
-1. Compile
-javac *.java
-2. Run
-java Main
+<img src="/images/java ex.png" width="400"/>
+
+4. Open the terminal inside VS Code:
+
+ Compile : 
+javac *.java  
+   Run :
+java Main 
 
 <img src="/images/run2.png" width="400"/>
 

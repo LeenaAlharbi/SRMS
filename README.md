@@ -61,7 +61,7 @@ cd SRMS
 javac *.java
 4. Run the program
 java Main
-![Screenshot](images/screen1.png)
+![Screenshot](run1.png)
 
 ▶ Running the Project in Visual Studio Code
 1. Download ZIP from GitHub

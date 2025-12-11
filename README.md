@@ -15,6 +15,7 @@ It allows you to:
 ## 📂 Project Structure
 
 SRMS/  
+├── images/  
 ├── Address.java  
 ├── AutoSaveThread.java  
 ├── FileHandler.java  
@@ -30,17 +31,17 @@ SRMS/
 
 ---
 
-## 🛠 Prerequisites
+### 🛠 Prerequisites
 Before building or running SRMS, make sure you have installed:
 
-### ✔ Java JDK (24 or newer)
+## ✔ Java JDK (24 or newer)
 Check version using:
+java --version
 
-```bash
-java -version
- <img width="486" height="327" alt="‏لقطة الشاشة ١٤٤٧-٠٦-٢١ في ١ ٠٦ ٠١ ص" src="https://github.com/user-attachments/assets/c6af024b-c183-4b60-a8d7-d640543795f0" />
 
-✔ Terminal or IDE
+<img src="/images/p1.png" width="400"/>
+
+## ✔ Terminal or IDE
 
 You may use:
 
@@ -52,7 +53,7 @@ Linux Shell
 
 Visual Studio Code
 
-▶ Running the Project via Terminal (Command Line)
+# ▶ Running the Project via Terminal (Command Line)
 1. Clone the repository
 git clone https://github.com/LeenaAlharbi/SRMS.git
 2. Navigate into the project folder
@@ -61,12 +62,12 @@ cd SRMS
 javac *.java
 4. Run the program
 java Main
-![Screenshot](run1.png)
+<img src="/images/run1.png" width="400"/>
 
-▶ Running the Project in Visual Studio Code
+# ▶ Running the Project in Visual Studio Code
 1. Download ZIP from GitHub
 2. Extract it
-![Screenshot](images/screen1.png)
+pp
 
 3. Open VS Code → Open Folder → SRMS
 Ensure you have:
@@ -80,9 +81,24 @@ javac *.java
 2. Run
 java Main
 
-![Screenshot](images/screen1.png)
+<img src="/images/run2.png" width="400"/>
 
 🧪 Testing / Usage
-
 When the program runs, you will see:
-![Screenshot](images/screen1.png)
+
+
+<img src="/images/١.png" width="400"/>
+
+<img src="/images/٢.png" width="400"/>
+
+<img src="/images/٣.png" width="400"/>
+
+<img src="/images/٤.png" width="400"/>
+
+<img src="/images/٥.png" width="400"/>
+
+<img src="/images/auto.png" width="400"/>
+
+<img src="/images/students.png" width="400"/>
+
+<img src="/images/r.png" width="400"/>

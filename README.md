@@ -87,7 +87,17 @@ java Main
 
 # 🧪 Testing / Usage
 
-When the program runs, you will see:
+When you run the SRMS program, you will see 9 options for using the program, which are:
+
+1. Add Undergraduate Student
+2. Add Graduate Student
+3. Update GPA
+4. Remove Student
+5. Show All Students
+6. Save to CSV
+7. Load from CSV
+8. Generate Report
+9. Exit
 
 
 <img src="/images/١.png" width="400"/>
@@ -115,18 +125,18 @@ Each member and the name of their branch 🌿
 * Leena Alharbi:
 LeenaBranch
 
-* Hanouf alyahya: 
+* Hanouf alyahya:
 Branch4
 
 * Althahab Salem:
 al37nvru90-ops 
 
-* Ghala al-khamis:  
+* Ghala al-khamis:
 manager-files
 
 <img src="/images/Br.png" width="400"/>
 
-## Pull Requests and Commits 
+## Commits 
 
 <img src="/images/c1.png" width="400"/> 
 

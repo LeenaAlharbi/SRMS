@@ -85,7 +85,8 @@ java Main
 
 <img src="/images/run2.png" width="400"/>
 
-🧪 Testing / Usage
+# 🧪 Testing / Usage
+
 When the program runs, you will see:
 
 
@@ -104,3 +105,35 @@ When the program runs, you will see:
 <img src="/images/students.png" width="400"/>
 
 <img src="/images/r.png" width="400"/>
+
+
+# Team Distribution
+
+## Branches 
+Each member and the name of their branch 🌿
+
+* Leena Alharbi:
+LeenaBranch
+
+* Hanouf alyahya: 
+Branch4
+
+* Althahab Salem:
+al37nvru90-ops 
+
+* Ghala al-khamis:  
+manager-files
+
+<img src="/images/Br.png" width="400"/>
+
+## Pull Requests and Commits 
+
+<img src="/images/c1.png" width="400"/> 
+
+<img src="/images/c2.png" width="400"/> 
+
+<img src="/images/c3.png" width="400"/> 
+
+<img src="/images/c4.png" width="400"/> 
+
+<img src="/images/c5.png" width="400"/> 

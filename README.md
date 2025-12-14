@@ -110,9 +110,30 @@ When the program runs, you will see:
 # Team Distribution
 
 ## Branches 
+Each member and the name of their branch 🌿
 
-<img src="/images/run2.png" width="400"/>
+* Leena Alharbi:
+LeenaBranch
+
+* Hanouf alyahya: 
+Branch4
+
+* Althahab Salem:
+al37nvru90-ops 
+
+* Ghala al-khamis:  
+manager-files
+
+<img src="/images/Br.png" width="400"/>
+
 ## Pull Requests and Commits 
 
-<img src="/images/run2.png" width="400"/>
+<img src="/images/c1.png" width="400"/> 
 
+<img src="/images/c2.png" width="400"/> 
+
+<img src="/images/c3.png" width="400"/> 
+
+<img src="/images/c4.png" width="400"/> 
+
+<img src="/images/c5.png" width="400"/> 

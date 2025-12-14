@@ -85,7 +85,8 @@ java Main
 
 <img src="/images/run2.png" width="400"/>
 
-🧪 Testing / Usage
+# 🧪 Testing / Usage
+
 When the program runs, you will see:
 
 
@@ -104,3 +105,14 @@ When the program runs, you will see:
 <img src="/images/students.png" width="400"/>
 
 <img src="/images/r.png" width="400"/>
+
+
+# Team Distribution
+
+## Branches 
+
+<img src="/images/run2.png" width="400"/>
+## Pull Requests and Commits 
+
+<img src="/images/run2.png" width="400"/>
+
